@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**JunHaoXia/JunHaoXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Hi there! 👋 I'm JunHao, a passionate software developer who recently graduated and is eager to embark on a journey in the world of tech. I have a strong foundation in computer science concepts and a knack for problem-solving. I thrive in collaborative environments and am constantly seeking opportunities to learn and grow.
 
-Here are some ideas to get you started:
+# Skills
+Programming Languages: Javascript, HTML, CSS, Python, Java, Assembly
+Frameworks/Libraries: Node.js, Express.js, React.js, Flask, Pandas, Scikit-learn
+Version Control: Git, GitHub
+Databases:  PostgreSQL, MongoDB, MariaDB
+Other Tools: Excel, VSCode, Eclipse, Mars, npm, pip, Firebase, Postman, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+I'm particularly interested in:
+
+Web Development
+Software Development
+
+# Education:
+Bachelor of Science in Computer Science
+Stony Brook University, 2024
+
+# Contact
+📧 Feel free to reach out to me via email at jhxia12@gmail.com. I'm open to collaborations, job opportunities, or just a friendly chat!
